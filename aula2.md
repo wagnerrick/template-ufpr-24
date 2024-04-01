@@ -1,6 +1,5 @@
 # Aula 2
 
-- 10 min de discussão
 - Introdução da aula
 - Ferramentas
   - Usos e objetivos
