@@ -4,6 +4,10 @@
   - verificar conta
   - código da aula
 - Notebook de Python
+- Revisão aula anterior
+  - Números, Strings
+  - Variáveis
+    - Mudar vaiáveis *in-place*
 - Listas
   - indexação
   - append e pop
