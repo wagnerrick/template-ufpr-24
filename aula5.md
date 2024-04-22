@@ -10,6 +10,7 @@
   - Funções
 - Pandas
   - Baixar CSV
+  - Path Intellisense
   - Importar código
   - DataFrame
     - Seleção de coluna
